@@ -1,0 +1,3 @@
+C:/Users/skele/Desktop/minilaska 2.1/cmake-build-debug/CMakeFiles/miniLaska_Project.dir
+C:/Users/skele/Desktop/minilaska 2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/skele/Desktop/minilaska 2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

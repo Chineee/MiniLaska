@@ -1,0 +1,29 @@
+\hypertarget{structpiece__t}{}\doxysection{piece\+\_\+t Struct Reference}
+\label{structpiece__t}\index{piece\_t@{piece\_t}}
+
+
+Collaboration diagram for piece\+\_\+t\+:
+% FIG 0
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{structpiece__t_a27501498658d3752a7dd5654c2d10a46}\label{structpiece__t_a27501498658d3752a7dd5654c2d10a46}} 
+bool {\bfseries is\+\_\+promoted}
+\item 
+\mbox{\Hypertarget{structpiece__t_a9a7ec32fb70d8ede1913a42d32f22f3c}\label{structpiece__t_a9a7ec32fb70d8ede1913a42d32f22f3c}} 
+color\+\_\+t {\bfseries colore}
+\item 
+\mbox{\Hypertarget{structpiece__t_ae8a5b2ff853736ea38d9a2f74b4a5959}\label{structpiece__t_ae8a5b2ff853736ea38d9a2f74b4a5959}} 
+type\+\_\+t {\bfseries livello}
+\item 
+\mbox{\Hypertarget{structpiece__t_acb6d76b90110ea5ba85bf12edb099f1b}\label{structpiece__t_acb6d76b90110ea5ba85bf12edb099f1b}} 
+\mbox{\hyperlink{structhostage__t}{hostage\+\_\+t}} {\bfseries hostage} \mbox{[}2\mbox{]}
+\item 
+\mbox{\Hypertarget{structpiece__t_a1e98dfc75e9da3c1b92e35b18ddd3e15}\label{structpiece__t_a1e98dfc75e9da3c1b92e35b18ddd3e15}} 
+bool {\bfseries forced}
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+init\+\_\+struct.\+h\end{DoxyCompactItemize}
